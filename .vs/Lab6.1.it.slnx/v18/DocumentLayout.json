@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Lab6.1.it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04EC4593-D9D6-454C-B89F-E2A287CC143D}|Lab6.1.it.vcxproj|D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Lab6.1.it\\Lab6.1.it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04EC4593-D9D6-454C-B89F-E2A287CC143D}|Lab6.1.it.vcxproj|solutionrelative:Lab6.1.it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D80B5-44D4-13A1-DDBF-514777D3684A}|..\\UnitTest6\\UnitTest6.vcxproj|D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\UnitTest6\\UnitTest6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab6.1.it.cpp",
+              "DocumentMoniker": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Lab6.1.it\\Lab6.1.it.cpp",
+              "RelativeDocumentMoniker": "Lab6.1.it.cpp",
+              "ToolTip": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Lab6.1.it\\Lab6.1.it.cpp",
+              "RelativeToolTip": "Lab6.1.it.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-27T23:54:32.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest6.cpp",
+              "DocumentMoniker": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\UnitTest6\\UnitTest6.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest6\\UnitTest6.cpp",
+              "ToolTip": "D:\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\UnitTest6\\UnitTest6.cpp",
+              "RelativeToolTip": "..\\UnitTest6\\UnitTest6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-27T23:57:01.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
